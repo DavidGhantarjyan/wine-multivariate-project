@@ -1,7 +1,5 @@
 # Wine — Multivariate Statistics Project
 
-Author: **Ghantarjyan Davit**.
-
 ## Dataset
 The **Wine** dataset (UCI Machine Learning Repository, also available in
 scikit-learn as `load_wine`): 178 wines, 13 numeric chemical variables and
