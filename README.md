@@ -1,6 +1,5 @@
 # Wine — Multivariate Statistics Project
 
-Final project for the *Multivariate Statistics* course (YSU, MSc, 2025/2026).
 Author: **Ghantarjyan Davit**.
 
 ## Dataset
